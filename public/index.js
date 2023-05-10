@@ -1,4 +1,4 @@
 import "./variables.js"
 import "./functions.js"
-import "./logical.js"
+import "./expressions.js"
 import "./objects.js"

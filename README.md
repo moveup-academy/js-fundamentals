@@ -9,11 +9,11 @@
 
 [x] - Funcoes (nomes reservados, escopo)
 
-[ ] - Objetos e Array (acessar propriedades, interacao de vetores)
+[x] - Expressoes logicos
 
-[ ] - Condicoes logicas
+[x] - Condicoes logicas
 
-[ ] - Simbolos logicos
+[] - Objetos e Array (acessar propriedades, interacao de vetores (Array))
 
 ### Algoritimo 
   * O que e um algoritimo? 
